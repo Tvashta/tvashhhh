@@ -6,6 +6,6 @@ plotly
 nbformat
 statsmodels
 
-jupyter-book=1.0.*
+jupyter-book==1.0.*
 
 
